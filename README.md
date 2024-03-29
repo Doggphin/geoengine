@@ -19,6 +19,6 @@ make
 ```
 
 ## Videos:
-![Idle](video2.gif)
+![Idle](visuals/video2.gif)
 
-![Collisions](video1.gif)
+![Collisions](visuals/video1.gif)
